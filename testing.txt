@@ -1,2 +1,4 @@
 test
 checking connflicts
+testing commit
+
